@@ -1,0 +1,20 @@
+{
+  "name": "sql-injection-demo",
+  "version": "1.0.0",
+  "description": "In order to take a closer look at SQL injection attacks, we're going to mount one ourselves. This activity will allow us to mimic a SQL injection attack using a small app of our own creation. The app will consist of a simple log in and a mock user database on the back end that has purposefully been left vulnerable to a SQL injection attack.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Benji8817/SQL-Injection-Demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Benji8817/SQL-Injection-Demo/issues"
+  },
+  "homepage": "https://github.com/Benji8817/SQL-Injection-Demo#readme"
+}
